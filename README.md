@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" align="right" width='400' alt='coding'></img>
-- 🔭 I’m currently working on **Vehicle Rental System**
+- 🔭 I’m currently working as a Software Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
